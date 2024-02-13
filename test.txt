@@ -2,3 +2,4 @@ This is to test gitt diff
 and understand how it works adding something here
 and function
 and now I am adding one more line
+adding new line
